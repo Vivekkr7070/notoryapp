@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/notoryapp/static/css/main.073c9b0a.css",
+    "main.js": "/notoryapp/static/js/main.9c039800.js",
+    "static/js/787.c3f2a1f9.chunk.js": "/notoryapp/static/js/787.c3f2a1f9.chunk.js",
+    "index.html": "/notoryapp/index.html",
+    "main.073c9b0a.css.map": "/notoryapp/static/css/main.073c9b0a.css.map",
+    "main.9c039800.js.map": "/notoryapp/static/js/main.9c039800.js.map",
+    "787.c3f2a1f9.chunk.js.map": "/notoryapp/static/js/787.c3f2a1f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9c039800.js"
+  ]
+}
